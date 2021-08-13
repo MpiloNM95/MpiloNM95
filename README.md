@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MpiloNM95
+- 👋 Hi, I’m Mpilo Mafu
 - 👀 I’m interested in Full Stack Development, UX Design
 - 🌱 I’m currently learning Full Stack Development Bootcamp @ Hyperiondev, South Africa
 - 💞️ I’m looking to collaborate on ...
