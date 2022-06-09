@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mpilo Mafu
-- 👀 I’m interested in Full Stack Development, UX Design
-- 🌱 I’m currently learning Full Stack Development Bootcamp @ Hyperiondev, South Africa
+- 👀 I’m interested in Full Stack Software Engineering, UX Design, IOS Development as well.
+- 🌱 I’m currently learning Full Stack Software Engineering Bootcamp @ ALX Africa, South Africa
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... mpilonmafu95@gmail.com
 
